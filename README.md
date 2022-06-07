@@ -102,6 +102,16 @@ Hier liste ich interressante Links zum Thema Python, Dokumentation und Co. auf.
 
 
 
+## XML
+1. XML in a Nutshell - https://www.data2type.de/home
+
+
+
+## CSS
+1. CSS Cheat Sheet - CSS CheatSheet
+
+
+
 ## Make
 1. Introduction - https://www.ploxiln.net/make.html
 2. GNU make - https://www.gnu.org/software/make/manual/make.html
@@ -131,6 +141,16 @@ Hier liste ich interressante Links zum Thema Python, Dokumentation und Co. auf.
 
 
 
+## Editoren
+1. Vim - the ubiquitous text editor - https://www.vim.org/
+2. hyperextensible Vim-based text editor - https://neovim.io/
+3. GNU Emacs - https://www.gnu.org/software/emacs/emacs.html
+4. Notepad++ - https://notepad-plus-plus.org/
+5. ATOM A hackable text editor for the 21st Century - https://atom.io/
+6. Visual Studio Code - https://code.visualstudio.com/
+
+
+
 ## Dokumentation
 ### CCC-Vorträge
 1. https://media.ccc.de/v/ecb2022-48932-lab-results-metadata-replication-search-and-language-tools#t=328
@@ -146,3 +166,13 @@ Hier liste ich interressante Links zum Thema Python, Dokumentation und Co. auf.
 5. Schema-Blog: Blog der Firma Schema, dem Hersteller des Redaktionssystems ST4, blog.schema.de
 6. Verband deutscher Redaktions- und Content-Management-System-Hersteller e.V., www.dercom.de
 
+
+
+## Crypto
+### AES
+1. Wikipedia - https://de.wikipedia.org/wiki/Advanced_Encryption_Standard
+2. https://cryptobook.nakov.com/symmetric-key-ciphers/aes-encrypt-decrypt-examples
+3. AES Example - Input (128 bit key and message) - https://www.kavaliro.com/wp-content/uploads/2014/03/AES.pdf
+
+### Mail
+1. CCC Vortrag - https://media.ccc.de/v/petit-foo-mailencryption#t=95
