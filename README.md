@@ -90,6 +90,46 @@ Hier liste ich interressante Links zum Thema Python, Dokumentation und Co. auf.
 2. Think Python - https://greenteapress.com/wp/think-python/
 
 
+## Git
+1. The entire Pro Git book - https://git-scm.com/book/en/v2
+2. Learn Git Branching - https://learngitbranching.js.org/?locale=de_DE
+3. On undoing, fixing, or removing commits in git - https://sethrobertson.github.io/GitFixUm/fixup.html
+4. Git pretty - http://justinhileman.info/article/git-pretty/
+5. How to undo (almost) anything with Git - https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/
+6. Git from the inside out - https://codewords.recurse.com/issues/two/git-from-the-inside-out
+7. git-from-the-bottom-up - https://jwiegley.github.io/git-from-the-bottom-up/
+8. Hitler uses Git (Satire!) - https://www.youtube.com/watch?v=CDeG4S-mJts
+
+
+
+## Make
+1. Introduction - https://www.ploxiln.net/make.html
+2. GNU make - https://www.gnu.org/software/make/manual/make.html
+
+
+
+## LaTeX
+1. typokurz – Einige wichtige typografische Regeln - https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf
+2. How to Typeset Equations in LATEX - https://moser-isi.ethz.ch/docs/typeset_equations.pdf
+3. A (La)TeX encyclopaedia - https://mirror.gutenberg-asso.fr/tex.loria.fr/
+4. Guide for the Use of the International System of Units (SI) - https://physics.nist.gov/cuu/pdf/sp811.pdf
+5. MATHEMATICAL TYPOGRAPHY - https://www.ams.org/journals/bull/1979-01-02/S0273-0979-1979-14598-1/S0273-0979-1979-14598-1.pdf
+
+
+
+## Unix
+1. Bash Guide - https://mywiki.wooledge.org/BashGuide
+2. Bash Pitfalls - https://mywiki.wooledge.org/BashPitfalls
+3. Bash Reference Sheet - https://mywiki.wooledge.org/BashSheet
+4. BASH Frequently Asked Questions - https://mywiki.wooledge.org/BashFAQ
+5. Learn code the hard way - https://learncodethehardway.org/
+6. Bash Guide for Beginners - https://tldp.org/LDP/Bash-Beginners-Guide/html/index.html
+7. Advanced Bash-Scripting Guide - https://tldp.org/LDP/abs/html/index.html
+8. Shell-Programmierung - https://openbook.rheinwerk-verlag.de/shell_programmierung/shell_003_000.htm#Xxx999276
+9. The Art of Command Line - https://github.com/jlevy/the-art-of-command-line/blob/master/README-de.md
+10. The UNIX-HATERS Handbook - https://richard.esplins.org/static/downloads/unix-haters-handbook.pdf
+
+
 
 ## Dokumentation
 ### CCC-Vorträge
