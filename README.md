@@ -1,5 +1,5 @@
-# Linksammlung
-Hier liste ich interressante Links zum Thema Python, Dokumentation und Co. auf.
+# Link collection
+Here I list interesting links about Python, documentation and co.
 
 ## News
 1. Netzpolitik.org - https://netzpolitik.org/  
