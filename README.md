@@ -10,10 +10,12 @@ Hier liste ich interressante Links zum Thema Python, Dokumentation und Co. auf.
 6. T3N - https://t3n.de/news/                                         
 
 
+
 ## Lernen (Video)
 1. Udemy Videokurse - https://www.udemy.com/                                       
 2. Tutorials & Schulungsvideos - https://tutsnode.net/                                        
 3. Free Online Courses - https://inprogrammer.com/category/free-online-courses/       
+
 
 
 ## Python
@@ -22,6 +24,23 @@ Hier liste ich interressante Links zum Thema Python, Dokumentation und Co. auf.
 2. https://www.python.org/downloads/
 3. Python for Windows Extensions Files - https://sourceforge.net/projects/pywin32/files/
 4. PEP 8 – Style Guide for Python Code - https://peps.python.org/pep-0008/
+
+### Bibliotheken
+1. Scipy Lecture Notes - https://scipy-lectures.org/
+2. 100 numpy exercises - https://github.com/rougier/numpy-100
+3. Numpy and Scipy Documentation - https://docs.scipy.org/doc/
+4. Matplotlib Users Guide - https://matplotlib.org/stable/users/index.html
+5. Matplotlib Examples - https://matplotlib.org/stable/gallery/index.html
+6. Matplotlib Tutorials - https://matplotlib.org/stable/tutorials/index.html
+7. uncertainties package - https://pythonhosted.org/uncertainties/
+8. SymPy - https://www.sympy.org/de/index.html
+9. pandas - https://pandas.pydata.org/
+10. Pint - https://pypi.org/project/Pint/
+
+### Web Frameworks, Content Management Systeme
+1. Flask - https://flask.palletsprojects.com/en/2.1.x/
+2. 
+
 
 
 ## Dokumentation
