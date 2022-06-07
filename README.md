@@ -69,7 +69,7 @@ Hier liste ich interressante Links zum Thema Python, Dokumentation und Co. auf.
 1. The Python Tutorial - https://docs.python.org/3/tutorial/index.html
 2. Learn Python, JavaScript, C, C++, and Java  - https://pythontutor.com/
 3. Dive Into Python 3 - https://diveintopython3.net/
-4. A Byte of Python https://python.swaroopch.com/
+4. A Byte of Python - https://python.swaroopch.com/
 5. Popular Python recipes  - https://code.activestate.com/recipes/langs/python/
 6. IPython - https://ipython.org/
 7. Tim Golden's Python Stuff - http://timgolden.me.uk/python/
@@ -79,6 +79,15 @@ Hier liste ich interressante Links zum Thema Python, Dokumentation und Co. auf.
 1. Python As Fast as Possible - Learn Python in ~75 Minutes - https://www.youtube.com/watch?v=VchuKL44s6E
 2. Python for Beginners - Learn Python in 1 Hour - https://www.youtube.com/watch?v=kqtD5dpn9C8
 3. Python 3 Crash Course: Learn Python 3 in 1 hour - https://www.youtube.com/watch?v=DcEfZeR71qg
+
+### Scientific Python Tutorials
+1. Python Data Science Handbook - https://github.com/jakevdp/PythonDataScienceHandbook
+2. Lectures on scientific computing with Python - https://github.com/jrjohansson/scientific-python-lectures
+3. Jake Vanderplas - Keynote - PyCon 2017 - https://www.youtube.com/watch?v=ZyjCqQEUa8o&t=10s
+
+### Sonstige Links
+1. The Hitchhiker’s Guide to Python! - https://docs.python-guide.org/
+2. Think Python - https://greenteapress.com/wp/think-python/
 
 
 
