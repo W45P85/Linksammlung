@@ -1,5 +1,5 @@
 # Link collection
-Here I list interesting links about Python, documentation and co.
+Hi, I'm Dan and here I list interesting links about Python, Git, CSS, UNIX, documentation, cryptography and so on...
 
 ## News
 1. Netzpolitik.org - https://netzpolitik.org/  
