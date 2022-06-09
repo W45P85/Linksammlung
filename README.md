@@ -22,8 +22,9 @@ Hi, I'm Dan and here I list interesting links about Python, Git, CSS, UNIX, docu
 ### Allgemein
 1. https://www.python.org/
 2. https://www.python.org/downloads/
-3. Python for Windows Extensions Files - https://sourceforge.net/projects/pywin32/files/
-4. PEP 8 – Style Guide for Python Code - https://peps.python.org/pep-0008/
+3. Python Tutorial https://www.tutorialspoint.com/python/index.htm
+4. Python for Windows Extensions Files - https://sourceforge.net/projects/pywin32/files/
+5. PEP 8 – Style Guide for Python Code - https://peps.python.org/pep-0008/
 
 ### Bibliotheken
 1. Scipy Lecture Notes - https://scipy-lectures.org/
@@ -166,6 +167,78 @@ Hi, I'm Dan and here I list interesting links about Python, Git, CSS, UNIX, docu
 5. Schema-Blog: Blog der Firma Schema, dem Hersteller des Redaktionssystems ST4, blog.schema.de
 6. Verband deutscher Redaktions- und Content-Management-System-Hersteller e.V., www.dercom.de
 
+
+## Hacking
+### Metasploit
+1. Quick Start Guide - https://docs.rapid7.com/metasploit/quick-start-guide/
+2. Metasploit Filesystem and Libraries - https://www.offensive-security.com/metasploit-unleashed/filesystem-and-libraries/
+
+### OWSAP
+1. Threat Modeling - https://owasp.org/www-community/Threat_Modeling
+2. OWASP Application Security Verification Standard - https://owasp.org/www-project-application-security-verification-standard/
+
+### Developer & GitHub
+1. Security Training for Developers - https://www.hacksplaining.com/
+2. Hack with GitHub - https://github.com/Hack-with-Github/Awesome-Hacking
+
+## Burp Suite
+1. Burp Suite - https://portswigger.net/burp
+2. Active Scan++ - https://portswigger.net/bappstore/3123d5b5f25c4128894d97ea1acc4976
+3. Burp Sentinel - https://github.com/dobin/BurpSentinel
+4. Automated HTTP request - https://github.com/nccgroup/AutoRepeater
+5. Autorize - https://portswigger.net/bappstore/f9bbac8c4acf4aefa4d7dc92a991af2f
+6. Flow provides a Proxy history-like view - https://portswigger.net/bappstore/ee1c45f4cc084304b2af4b7e92c0a49d
+7. Headless Burp - https://portswigger.net/bappstore/d54b11f7af3c4dfeb6b81fb5db72e381
+8. Logger++ - https://portswigger.net/bappstore/470b7057b86f41c396a97903377f3d81
+9. WSDL Wizard - https://portswigger.net/bappstore/ef2f3f1a593d417987bb2ddded760aee
+
+## Web Hacking
+1. JSParser - https://github.com/nahamsec/JSParser
+2. Knock Subdomain Scan v5.3.0 - https://github.com/guelfoweb/knock
+3. lazys3 A Ruby script to bruteforce for AWS s3 buckets using different permutations - https://github.com/nahamsec/lazys3
+4. Sublist3r - https://github.com/aboul3la/Sublist3r
+5. Teh S3 Bucketeers - https://github.com/tomdev/teh_s3_bucketeers
+6. Virtual host scanner - https://github.com/jobertabma/virtual-host-discovery
+7. WordPress Security Scanner - https://github.com/wpscanteam/wpscan
+8. webscreenshot - https://github.com/maaaaz/webscreenshot
+9. UltraDNS - https://neustarsecurityservices.com/dns-services/ultra-dns
+10. unfurl,  Entropy-Based Link Vulnerability Analysis Tool - https://github.com/JLospinoso/unfurl
+11. waybackurls - https://github.com/tomnomnom/waybackurls
+12. httprobe - https://github.com/tomnomnom/httprobe
+13. meg - https://github.com/tomnomnom/meg
+14. getallurls (gau) - https://github.com/lc/gau
+15. ffuf - Fuzz Faster U Fool - https://github.com/ffuf/ffuf
+16. dirsearch - Web path discovery - https://github.com/maurosoria/dirsearch
+17. OWASP Zed Attack Proxy (ZAP) - https://www.zaproxy.org/
+18. Subfinder - https://github.com/projectdiscovery/subfinder
+19. EyeWitness - https://github.com/FortyNorthSecurity/EyeWitness
+20. Nuclei - https://github.com/projectdiscovery/nuclei
+21. Naabu - https://github.com/projectdiscovery/naabu
+22. shuffleDNS - https://github.com/projectdiscovery/shuffledns
+23. DNSProbe - https://github.com/projectdiscovery/dnsprobe
+24. Chaos - https://chaos.projectdiscovery.io/#/
+25. subjack - https://github.com/haccer/subjack
+26. gitGraber - https://github.com/hisxo/gitGraber
+27. shhgit - https://github.com/eth0izzle/shhgit
+28. Commit Stream - https://github.com/x1sec/commit-stream
+29. MASSCAN: Mass IP port scanner - https://github.com/robertdavidgraham/masscan
+30. MassDNS resolver - https://github.com/blechschmidt/massdns
+31. Findomain Monitoring Service - https://github.com/Findomain/Findomain
+32. OWASP Amass - https://github.com/OWASP/Amass
+33. dnsgen (DNS generator) - https://github.com/ProjectAnte/dnsgen
+34. DNSGrep - https://github.com/erbbysam/DNSGrep
+35. Wfuzz - The Web Fuzzer - https://github.com/xmendez/wfuzz
+36. AQUATONE - https://github.com/michenriksen/aquatone
+37. WhatWeb - Next generation web scanner - https://github.com/urbanadventurer/WhatWeb
+38. Dirb - https://github.com/v0re/dirb
+39. dnscan - https://github.com/rbsec/dnscan
+40. Sublert - https://github.com/yassineaboukir/sublert
+41. The Recon-ng Framework - https://github.com/lanmaster53/recon-ng
+42. Jok3r Framework - https://github.com/koutto/jok3r
+43. Projects for Good - https://owasp.org/projects/
+44. Altdns - Subdomain discovery through alterations and permutations - https://github.com/infosec-au/altdns
+45. recon_profile - https://github.com/nahamsec/recon_profile
+46. BBHT (Bug Bounty Hunting Tools) - https://github.com/nahamsec/bbht
 
 
 ## Crypto
