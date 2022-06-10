@@ -1,5 +1,5 @@
 # Link collection
-Hi, I'm W45P and here I list interesting links about Python, Git, CSS, UNIX, documentation, cryptography and so on...
+Hi, I'm W45P and here I list interesting links about Python, Git, CSS, Hacking, UNIX, documentation, cryptography and so on...
 
 ## News
 1. Netzpolitik.org - https://netzpolitik.org/  
@@ -268,6 +268,40 @@ Hi, I'm W45P and here I list interesting links about Python, Git, CSS, UNIX, doc
 5. SSRFTest - https://github.com/daeken/SSRFTest
 6. retire.js (Browsererweiterung) - https://addons.mozilla.org/en-US/firefox/addon/retire-js/
 7. SpiderFoot (OSINT) - https://github.com/smicallef/spiderfoot
+
+### Scanners/Frameworks
+1. OpenVAS Open Vulnerability Assessment Scanner - https://www.openvas.org/
+2. Nikto2 - https://cirt.net/Nikto2
+3. Wapiti The web-application vulnerability scanner - https://wapiti-scanner.github.io/
+4. Metasploit The world’s most used penetration testing framework - https://www.metasploit.com/get-started
+5. Maltego - https://www.maltego.com/
+6. CANVAS - https://www.immunityinc.com/products/canvas/
+7. Sn1per Surface Management (ASM) platform - https://github.com/1N3/Sn1per
+8. lazyrecon - https://github.com/nahamsec/lazyrecon
+9. Osmedeus A Workflow Engine for Offensive Security - https://github.com/j3ssie/Osmedeus
+10. ReconNess Web App - https://github.com/reconness/reconness
+11. IronWASP - https://resources.infosecinstitute.com/topic/ironwasp-part-1-2/
+12. Nmap - https://nmap.org/
+
+### Datasets/Freemium Services 
+1. Shodan.io - https://www.shodan.io/
+2. Censys - https://censys.io/
+3. Forward DNS (FDNS) - https://opendata.rapid7.com/sonar.fdns_v2/
+4. C99's API Service - https://api.c99.nl/
+5. SecLists security assessments - https://github.com/danielmiessler/SecLists
+6. Payloads All The Things - https://github.com/swisskyrepo/PayloadsAllTheThings
+
+### Miscellaneous Hacking Tools
+1. Ettercap - https://www.ettercap-project.org/
+2. https://transformations.jobertabma.nl/
+3. John the Ripper password cracker - https://www.openwall.com/john/
+4. Wireshark - https://www.wireshark.org/
+5. FoxyProxy Standard (Browsererweiterung) - https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/
+6. Wappalyzer (Browsererweiterung) - https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/
+7. BuiltWith (Browsererweiterung) - https://addons.mozilla.org/en-US/firefox/addon/builtwith/
+8. Debugging GraphQL - https://altair.sirmuel.design/
+9. H Y D R A - https://github.com/vanhauser-thc/thc-hydra
+10. SwiftnessX v0.2 - https://github.com/ehrishirajsharma/SwiftnessX
 
 
 ## Crypto
