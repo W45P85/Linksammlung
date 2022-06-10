@@ -173,6 +173,18 @@ Hi, I'm Dan and here I list interesting links about Python, Git, CSS, UNIX, docu
 1. Quick Start Guide - https://docs.rapid7.com/metasploit/quick-start-guide/
 2. Metasploit Filesystem and Libraries - https://www.offensive-security.com/metasploit-unleashed/filesystem-and-libraries/
 
+## C&C-Server
+1. Finding & Attributing Malicious Command & Control Servers - https://fabian-voith.de/2020/09/30/finding-attributing-malicious-command-control-servers/
+2. Command and Control Server Detection: Methods & Best Practices - https://cybersecurity.att.com/blogs/security-essentials/command-and-control-server-detection-methods-best-practices)
+3. Creating botnet C&C server. What architecture should I use? - https://security.stackexchange.com/questions/100577/creating-botnet-cc-server-what-architecture-should-i-use-irc-http
+4. Command-and-Control Server (C&C-Server) - https://www.computerweekly.com/de/definition/Command-and-Control-Server-CC-Server
+5. Command-and-Control-Server - https://it-forensik.fiw.hs-wismar.de/index.php/Command-and-Control-Server
+
+## Maleware
+1. Metamorphe und polymorphe Malware - https://www.computerweekly.com/de/definition/Metamorphe-und-polymorphe-Malware
+2. Poisonous Python. Coding malware in Python: a locker, an encryptor, and a virus - https://hackmag.com/coding/python-malware/
+
+
 ### OWSAP
 1. Threat Modeling - https://owasp.org/www-community/Threat_Modeling
 2. OWASP Application Security Verification Standard - https://owasp.org/www-project-application-security-verification-standard/
@@ -239,6 +251,23 @@ Hi, I'm Dan and here I list interesting links about Python, Git, CSS, UNIX, docu
 44. Altdns - Subdomain discovery through alterations and permutations - https://github.com/infosec-au/altdns
 45. recon_profile - https://github.com/nahamsec/recon_profile
 46. BBHT (Bug Bounty Hunting Tools) - https://github.com/nahamsec/bbht
+
+### Mobile Hacking
+1. Mobile Security Framework (MobSF) - https://github.com/MobSF/Mobile-Security-Framework-MobSF
+2. jadx - Dex to Java decompiler - https://github.com/skylot/jadx
+3. dex2jar - https://github.com/pxb1988/dex2jar
+4. radare2 | r2Pipe | iaito - https://rada.re/n/radare2.html
+5. Android as a Service (Genymotion) - https://www.genymotion.com/
+6. Frida Universal™ SSL Unpinner - https://gist.github.com/teknogeek/4dc35fb3801bd7f13e5f0da5b784c725 | https://frida.re/
+
+### Exploitation
+1. SQLNinja - http://sqlninja.sourceforge.net/
+2. XSShunter - https://xsshunter.com/
+3. NoSQLMap - https://github.com/codingo/NoSQLMap | https://github.com/sqlmapproject/sqlmap
+4. ysoserial - https://github.com/frohoff/ysoserial
+5. SSRFTest - https://github.com/daeken/SSRFTest
+6. retire.js (Browsererweiterung) - https://addons.mozilla.org/en-US/firefox/addon/retire-js/
+7. SpiderFoot (OSINT) - https://github.com/smicallef/spiderfoot
 
 
 ## Crypto
