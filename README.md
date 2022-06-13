@@ -121,7 +121,10 @@ Hi, I'm W45P and here I list interesting links about Python, Git, CSS, Hacking, 
 
 
 ## CSS
-1. CSS Cheat Sheet - CSS CheatSheet
+1. CSS Cheat Sheet - https://htmlcheatsheet.com/css/
+2. w3schools CSS Tutorial - https://www.w3schools.com/Css/
+3. CSS Tutorial - https://www.tutorialspoint.com/css/index.htm
+4. CSS Tutorial - https://www.javatpoint.com/css-tutorial
 
 
 
