@@ -173,6 +173,9 @@ Hi, I'm W45P and here I list interesting links about Python, Git, CSS, Hacking, 
 1. Quick Start Guide - https://docs.rapid7.com/metasploit/quick-start-guide/
 2. Metasploit Filesystem and Libraries - https://www.offensive-security.com/metasploit-unleashed/filesystem-and-libraries/
 
+### Toolsammlung
+1. The Hacker's Tools - https://www.kitploit.com
+
 ## C&C-Server
 1. Finding & Attributing Malicious Command & Control Servers - https://fabian-voith.de/2020/09/30/finding-attributing-malicious-command-control-servers/
 2. Command and Control Server Detection: Methods & Best Practices - https://cybersecurity.att.com/blogs/security-essentials/command-and-control-server-detection-methods-best-practices)
