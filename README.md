@@ -4,10 +4,20 @@
 3. [ Nützliches ](#section2)
 4. [ Lernen (Video) ](#section3)
 5. [ Python ](#section4)
-6. [ Conclusion. ](#conclusion)
+6. [ Git ](#section5)
+7. [ XML ](#section6)
+8. [ CSS ](#section7)
+9. [ MAKE ](#section8)
+10. [ LaTeX ](#section9)
+11. [ Unix ](#section10)
+12. [ Editoren ](#section11)
+13. [ Dokumentation ](#section12)
+14. [ Hacking ](#section13)
+15. [ Crypto ](#section14)
+
 
 <a name="intro"></a>
-## 1. Introduction
+## Introduction
 Hi there, I'am W45P. Here I list all interesting links about news, Python, Git, XML, Documentation, Hacking and much more. 
 
 <a name="section1"></a>
@@ -34,7 +44,7 @@ Hi there, I'am W45P. Here I list all interesting links about news, Python, Git, 
 3. Free Online Courses - https://inprogrammer.com/category/free-online-courses/       
 
 
-<a name="section3"></a>
+<a name="section4"></a>
 ## Python
 ### Allgemein
 1. https://www.python.org/
@@ -112,7 +122,7 @@ Hi there, I'am W45P. Here I list all interesting links about news, Python, Git, 
 1. Five Tips for Automatic Python Documentation - https://towardsdatascience.com/five-tips-for-automatic-python-documentation-7513825b760e
 
 
-
+<a name="section5"></a>
 ## Git
 1. The entire Pro Git book - https://git-scm.com/book/en/v2
 2. Learn Git Branching - https://learngitbranching.js.org/?locale=de_DE
@@ -124,12 +134,12 @@ Hi there, I'am W45P. Here I list all interesting links about news, Python, Git, 
 8. Hitler uses Git (Satire!) - https://www.youtube.com/watch?v=CDeG4S-mJts
 
 
-
+<a name="section6"></a>
 ## XML
 1. XML in a Nutshell - https://www.data2type.de/home
 
 
-
+<a name="section7"></a>
 ## CSS
 1. CSS Cheat Sheet - https://htmlcheatsheet.com/css/
 2. w3schools CSS Tutorial - https://www.w3schools.com/Css/
@@ -137,13 +147,13 @@ Hi there, I'am W45P. Here I list all interesting links about news, Python, Git, 
 4. CSS Tutorial - https://www.javatpoint.com/css-tutorial
 
 
-
+<a name="section8"></a>
 ## Make
 1. Introduction - https://www.ploxiln.net/make.html
 2. GNU make - https://www.gnu.org/software/make/manual/make.html
 
 
-
+<a name="section9"></a>
 ## LaTeX
 1. typokurz – Einige wichtige typografische Regeln - https://zvisionwelt.files.wordpress.com/2012/01/typokurz.pdf
 2. How to Typeset Equations in LATEX - https://moser-isi.ethz.ch/docs/typeset_equations.pdf
@@ -152,7 +162,7 @@ Hi there, I'am W45P. Here I list all interesting links about news, Python, Git, 
 5. MATHEMATICAL TYPOGRAPHY - https://www.ams.org/journals/bull/1979-01-02/S0273-0979-1979-14598-1/S0273-0979-1979-14598-1.pdf
 
 
-
+<a name="section10"></a>
 ## Unix
 1. Bash Guide - https://mywiki.wooledge.org/BashGuide
 2. Bash Pitfalls - https://mywiki.wooledge.org/BashPitfalls
@@ -166,7 +176,7 @@ Hi there, I'am W45P. Here I list all interesting links about news, Python, Git, 
 10. The UNIX-HATERS Handbook - https://richard.esplins.org/static/downloads/unix-haters-handbook.pdf
 
 
-
+<a name="section11"></a>
 ## Editoren
 1. Vim - the ubiquitous text editor - https://www.vim.org/
 2. hyperextensible Vim-based text editor - https://neovim.io/
@@ -176,7 +186,7 @@ Hi there, I'am W45P. Here I list all interesting links about news, Python, Git, 
 6. Visual Studio Code - https://code.visualstudio.com/
 
 
-
+<a name="section12"></a>
 ## Dokumentation
 ### Allgemeines zur Softwaredokumentation
 1. Types of Software Documentation to Know About - https://www.archbee.io/blog/types-of-software-documentation
@@ -221,7 +231,7 @@ Hi there, I'am W45P. Here I list all interesting links about news, Python, Git, 
 2. Swagger Ui - https://xkcd.com/1481/
 
 
-
+<a name="section13"></a>
 ## Hacking
 ### Metasploit
 1. Quick Start Guide - https://docs.rapid7.com/metasploit/quick-start-guide/
@@ -360,7 +370,7 @@ Hi there, I'am W45P. Here I list all interesting links about news, Python, Git, 
 9. H Y D R A - https://github.com/vanhauser-thc/thc-hydra
 10. SwiftnessX v0.2 - https://github.com/ehrishirajsharma/SwiftnessX
 
-
+<a name="section14"></a>
 ## Crypto
 ### AES
 1. Wikipedia - https://de.wikipedia.org/wiki/Advanced_Encryption_Standard
