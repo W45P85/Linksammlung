@@ -1,6 +1,16 @@
-# Link collection
-Hi, I'm W45P and here I list interesting links about Python, Git, CSS, Hacking, UNIX, documentation, cryptography and so on...
+# Table of Contents
+1. [ Introduction. ](#intro)
+2. [ News ](#section1)
+3. [ Nützliches ](#section2)
+4. [ Lernen (Video) ](#section3)
+5. [ Python ](#section4)
+6. [ Conclusion. ](#conclusion)
 
+<a name="intro"></a>
+## 1. Introduction
+Hi there, I'am W45P. Here I list all interesting links about news, Python, Git, XML, Documentation, Hacking and much more. 
+
+<a name="section1"></a>
 ## News
 1. Netzpolitik.org - https://netzpolitik.org/  
 2. Golem - IT-News für Profis - ttps://www.golem.de/                                        
@@ -10,21 +20,21 @@ Hi, I'm W45P and here I list interesting links about Python, Git, CSS, Hacking, 
 6. T3N - https://t3n.de/news/                                         
 
 
-
+<a name="section2"></a>
 ## Nützliches
 1. KOSTENLOSE TRASHMAIL ERSTELLEN - https://www.txen.de/
 2. Namensgenerator - https://de.fakenamegenerator.com/
 3. Proxyserver - https://www.proxy-listen.de/
 
 
-
+<a name="section3"></a>
 ## Lernen (Video)
 1. Udemy Videokurse - https://www.udemy.com/                                       
 2. Tutorials & Schulungsvideos - https://tutsnode.net/                                        
 3. Free Online Courses - https://inprogrammer.com/category/free-online-courses/       
 
 
-
+<a name="section3"></a>
 ## Python
 ### Allgemein
 1. https://www.python.org/
