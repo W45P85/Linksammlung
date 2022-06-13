@@ -32,6 +32,7 @@ Hi, I'm W45P and here I list interesting links about Python, Git, CSS, Hacking, 
 3. Python Tutorial https://www.tutorialspoint.com/python/index.htm
 4. Python for Windows Extensions Files - https://sourceforge.net/projects/pywin32/files/
 5. PEP 8 – Style Guide for Python Code - https://peps.python.org/pep-0008/
+6. 5 Python Task Automation Ideas - Guide with Examples - https://www.monterail.com/blog/python-task-automation-examples
 
 ### Bibliotheken
 1. Scipy Lecture Notes - https://scipy-lectures.org/
@@ -160,8 +161,6 @@ Hi, I'm W45P and here I list interesting links about Python, Git, CSS, Hacking, 
 
 
 ## Dokumentation
-![grafik]([https://user-images.githubusercontent.com/87259727/173312281-3141aebe-b948-4b42-af93-e358518e512d.png](https://imgs.xkcd.com/comics/manuals.png))
-
 ### Methoden, Formate und Tools
 1. Screenshots - Greenshot - http://getgreenshot.org/downloads/
 2. Windows-Tool: Problem Step Recorder - https://support.microsoft.com/de-de/windows/aufzeichnen-der-schritte-zum-reproduzieren-eines-problems-46582a9b-620f-2e36-00c9-04e25d784e47
@@ -195,6 +194,10 @@ Hi, I'm W45P and here I list interesting links about Python, Git, CSS, Hacking, 
 4. PI-Mod - Ein Informationsmodell - www.i4icm.de
 5. Verband deutscher Redaktions- und Content-Management-System-Hersteller e.V. - www.dercom.de
 6. Softwaredokumentation erstellen - https://people-text.de/de/softwaredokumentation
+
+### Fun
+1. Solve Problems vs. Create Problems - https://xkcd.com/1343/
+2. Swagger Ui - https://xkcd.com/1481/
 
 
 
