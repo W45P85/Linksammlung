@@ -11,6 +11,13 @@ Hi, I'm W45P and here I list interesting links about Python, Git, CSS, Hacking, 
 
 
 
+## Nützliches
+1. KOSTENLOSE TRASHMAIL ERSTELLEN - https://www.txen.de/
+2. Namensgenerator - https://de.fakenamegenerator.com/
+3. Proxyserver - https://www.proxy-listen.de/
+
+
+
 ## Lernen (Video)
 1. Udemy Videokurse - https://www.udemy.com/                                       
 2. Tutorials & Schulungsvideos - https://tutsnode.net/                                        
@@ -153,11 +160,12 @@ Hi, I'm W45P and here I list interesting links about Python, Git, CSS, Hacking, 
 
 
 ## Dokumentation
-### CCC-Vorträge
+### Vorträge/Videos
 1. https://media.ccc.de/v/ecb2022-48932-lab-results-metadata-replication-search-and-language-tools#t=328
 2. https://media.ccc.de/v/froscon2018-2192-documentation_with_any_editor#t=480
 3. https://media.ccc.de/v/froscon2014_-_1443_-_en_-_hs6_php_-_201408241515_-_executable_documentation_for_everyone_even_you_-_nikolas_martens#t=364
 4. https://media.ccc.de/v/gpn14_-_5877_-_de_-_zkm-vortragssaal_-_201406221300_-_how_to_not_fuck_up_your_it_documentation_-_rem0te#t=31
+5. Softwaredokumentation - ein Überblick - https://www.youtube.com/watch?v=yjhOLb1WzpM&t=134s
 
 ### Content-Management und Informationsarchitektur
 1. OASIS Darwin Information Typing Architecture (DITA) TC, www.oasis-open.org
