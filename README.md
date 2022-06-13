@@ -179,6 +179,7 @@ Hi, I'm W45P and here I list interesting links about Python, Git, CSS, Hacking, 
    3.  Swagger Codegen — generates server stubs and client SDKs for an API - https://swagger.io/tools/swagger-codegen/
 10. Automatisierung des Release-Prozesses für Python-Pakete - https://isolution.pro/de/q/so70625862/automatisierung-des-release-prozesses-fur-python-pakete
 11. Automatisierung der Dokumentation im Bereich der Softwareentwicklung (Studienarbeit) - https://pi9.theoinf.tu-ilmenau.de/~streitdf/TheHome/DA_SA/Data/SA_Kluge_Rene.pdf
+12. Software-Architektur (IEC 62304 konform) - https://www.johner-institut.de/blog/tag/software-architektur/
 
 ### Vorträge/Videos
 1. https://media.ccc.de/v/ecb2022-48932-lab-results-metadata-replication-search-and-language-tools#t=328
