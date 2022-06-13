@@ -168,12 +168,11 @@ Hi, I'm W45P and here I list interesting links about Python, Git, CSS, Hacking, 
 5. Softwaredokumentation - ein Überblick - https://www.youtube.com/watch?v=yjhOLb1WzpM&t=134s
 
 ### Content-Management und Informationsarchitektur
-1. OASIS Darwin Information Typing Architecture (DITA) TC, www.oasis-open.org
-2. Intelligent Information Blog, www.intelligent-information.blog
-3. Institut für Informations- und Contentmanagement, www.i4icm.de
-4. PI-Mod - Ein Informationsmodell, www.i4icm.de
-5. Schema-Blog: Blog der Firma Schema, dem Hersteller des Redaktionssystems ST4, blog.schema.de
-6. Verband deutscher Redaktions- und Content-Management-System-Hersteller e.V., www.dercom.de
+1. OASIS Darwin Information Typing Architecture (DITA) TC - www.oasis-open.org
+2. Intelligent Information Blog - www.intelligent-information.blog
+3. Institut für Informations- und Contentmanagement - www.i4icm.de
+4. PI-Mod - Ein Informationsmodell - www.i4icm.de
+5. Verband deutscher Redaktions- und Content-Management-System-Hersteller e.V. - www.dercom.de
 
 
 ## Hacking
