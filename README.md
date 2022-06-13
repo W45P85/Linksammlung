@@ -72,7 +72,8 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
    - Flask Tutorial in Visual Studio Code - https://code.visualstudio.com/docs/python/tutorial-flask
 3. Zope - https://www.zope.dev/
 4. Django - https://www.djangoproject.com/
-5. Plone - The Ultimate Enterprise CMS - https://plone.org/
+   - Django Tutorial in Visual Studio Code - https://code.visualstudio.com/docs/python/tutorial-django
+6. Plone - The Ultimate Enterprise CMS - https://plone.org/
 
 ### Vorlagensprachen (Templates)
 1. Jinja - https://jinja.palletsprojects.com/en/3.1.x/
