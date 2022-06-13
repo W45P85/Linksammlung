@@ -68,9 +68,10 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 
 ### Web Frameworks, Content Management Systeme
 1. Flask - https://flask.palletsprojects.com/en/2.1.x/
-2. Zope - https://www.zope.dev/
-3. Django - https://www.djangoproject.com/
-4. Plone - The Ultimate Enterprise CMS - https://plone.org/
+   - Python/Flask tutorial sample for Visual Studio Code - https://github.com/prast567/python-sample-vscode-flask-tutorial
+3. Zope - https://www.zope.dev/
+4. Django - https://www.djangoproject.com/
+5. Plone - The Ultimate Enterprise CMS - https://plone.org/
 
 ### Vorlagensprachen (Templates)
 1. Jinja - https://jinja.palletsprojects.com/en/3.1.x/
