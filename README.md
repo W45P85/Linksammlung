@@ -1,5 +1,5 @@
 # Table of Contents
-1. [ Introduction. ](#intro)
+1. [ Introduction ](#intro)
 2. [ News ](#section1)
 3. [ Nützliches ](#section2)
 4. [ Lernen (Video) ](#section3)
@@ -18,7 +18,7 @@
 
 <a name="intro"></a>
 ## Introduction
-Hi there, I'am W45P. Here I list all interesting links about news, Python, Git, XML, Documentation, Hacking and much more. 
+Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, XML, Documentation, Hacking and much more. 
 
 <a name="section1"></a>
 ## News
