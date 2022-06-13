@@ -49,10 +49,11 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 ### Allgemein
 1. https://www.python.org/
 2. https://www.python.org/downloads/
-3. Python Tutorial https://www.tutorialspoint.com/python/index.htm
-4. Python for Windows Extensions Files - https://sourceforge.net/projects/pywin32/files/
-5. PEP 8 – Style Guide for Python Code - https://peps.python.org/pep-0008/
-6. 5 Python Task Automation Ideas - Guide with Examples - https://www.monterail.com/blog/python-task-automation-examples
+3. The Python Package Index (PyPI) - https://pypi.org/search/
+4. Python Tutorial https://www.tutorialspoint.com/python/index.htm
+5. Python for Windows Extensions Files - https://sourceforge.net/projects/pywin32/files/
+6. PEP 8 – Style Guide for Python Code - https://peps.python.org/pep-0008/
+7. 5 Python Task Automation Ideas - Guide with Examples - https://www.monterail.com/blog/python-task-automation-examples
 
 ### Bibliotheken
 1. Scipy Lecture Notes - https://scipy-lectures.org/
