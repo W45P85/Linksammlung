@@ -27,7 +27,8 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 3. Heise online - https://www.heise.de/                                        
 4. Tarnkappe.info (Daten- und Verbraucherschutz, IT-Sicherheit, Netzpolitik und Urheberrecht) - https://tarnkappe.info/     
 5. Fefe's Blog - https://blog.fefe.de/                                        
-6. T3N - https://t3n.de/news/                                         
+6. T3N - https://t3n.de/news/
+7. IT-daily - https://www.it-daily.net/                                         
 
 
 <a name="section2"></a>
