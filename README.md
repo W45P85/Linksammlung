@@ -37,6 +37,7 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 2. Namensgenerator - https://de.fakenamegenerator.com/
 3. Proxyserver - https://www.proxy-listen.de/
 4. Die Dokumente unserer Demokratie - https://www.dokukratie.de/
+5. Script to download archive.org books in PDF format - https://github.com/MiniGlome/Archive.org-Downloader
 
 
 <a name="section3"></a>
