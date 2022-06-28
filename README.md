@@ -58,6 +58,9 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 6. PEP 8 – Style Guide for Python Code - https://peps.python.org/pep-0008/
 7. 5 Python Task Automation Ideas - Guide with Examples - https://www.monterail.com/blog/python-task-automation-examples
 
+### Fun
+1. One line jokes for programmers (jokes as a service) - https://github.com/pyjokes/pyjokes
+
 ### Bibliotheken
 1. Scipy Lecture Notes - https://scipy-lectures.org/
 2. 100 numpy exercises - https://github.com/rougier/numpy-100
