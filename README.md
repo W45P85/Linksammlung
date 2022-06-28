@@ -198,6 +198,9 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 
 <a name="section12"></a>
 ## Dokumentation
+### Automatisierte Texterstellung
+1. Wie funktioniert automatisierte Texterstellung? AX Semantics | Webinar - https://www.youtube.com/watch?v=YHxOqO_sygk
+
 ### Allgemeines zur Softwaredokumentation
 1. Types of Software Documentation to Know About - https://www.archbee.io/blog/types-of-software-documentation
 2. Software-Architektur (IEC 62304 konform) - https://www.johner-institut.de/blog/tag/software-architektur/
