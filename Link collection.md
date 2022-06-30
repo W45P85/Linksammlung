@@ -410,22 +410,88 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 9. IPv6 Hardening Guide for Linux Servers - https://ernw.de/download/ERNW_Guide_to_Securely_Configure_Linux_Servers_For_IPv6_v1_0.pdf
 10. Iptables Essentials: Common Firewall Rules and Commands - https://github.com/trimstray/iptables-essentials
 11. Best Practice Auditd Configuration - https://github.com/Neo23x0/auditd
+
 #### Red Hat Enterprise Linux - RHEL
 1. Concepts and techniques to secure RHEL servers and workstations - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/security_guide/index
 2. STIGs Document Library - https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=unix-linux
 3. Securing Red Hat Enterprise Linux - https://www.cisecurity.org/benchmark/red_hat_linux
 4. FirewallD on RHEL 8 - https://www.cyberciti.biz/faq/configure-set-up-a-firewall-using-firewalld-on-rhel-8/
+
 #### CentOS
 1. CentOS 7 Server Hardening Guide - https://www.lisenet.com/2017/centos-7-server-hardening-guide/
 2. Security Harden CentOS 7 - https://highon.coffee/blog/security-harden-centos-7/
+
 #### SUSE
 1. SUSE Linux Enterprise Server 12 SP4 Security Guide and Hardening Guide - https://documentation.suse.com/sles/12-SP4/#redirectmsg
+
 #### Ubuntu
 1. Ubuntu Server Guide - https://ubuntu.com/server/docs
 2. Ubuntu Wiki - Security Hardening Features - https://wiki.ubuntu.com/Security/Features
 
 ### Windows
-1. 
+1. Windows security baselines - https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-security-configuration-framework/windows-security-baselines
+2. Windows Server Security documentation - https://docs.microsoft.com/en-us/windows-server/security/security-and-assurance
+3. Windows security - https://docs.microsoft.com/en-us/windows/security/
+4. SiSyPHuS Win10: Windows 10 Hardening Guideline (fokussiert auf Windows 10 LTSC 2019) - https://www.bsi.bund.de/EN/Topics/Cyber-Security/Recommendations/SiSyPHuS_Win10/AP11/SiSyPHuS_AP11_node.html
+5. Hardening Microsoft Windows 10 version 21H1 Workstations - https://www.cyber.gov.au/acsc/view-all-content/publications/hardening-microsoft-windows-10-version-21h1-workstations
+6. Securing PowerShell in the Enterprise - https://www.cyber.gov.au/acsc/view-all-content/publications/securing-powershell-enterprise
+7. Awesome Windows Domain Hardening - https://github.com/PaulSec/awesome-windows-domain-hardening
+8. How to detect, enable and disable SMBv1, SMBv2, and SMBv3 in Windows - https://docs.microsoft.com/en-GB/windows-server/storage/file-server/troubleshoot/detect-enable-and-disable-smbv1-v2-v3
+9. Microsoft recommended block rules (Liste der Anwendungen und Dateien, die verwendet werden können, um die Whitelisting-Richtlinien für Anwendungen zu umgehen) - https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules
+10. IPv6 Hardening Guide for Windows Servers - https://ernw.de/download/ERNW_Guide_to_Configure_Securely_Windows_Servers_For_IPv6_v1_0.pdf
+11. Konfig für Anwendungs-Whitelisting mit AppLocker - https://github.com/nsacyber/AppLocker-Guidance
+12. Konfig für Pass-the-Hash-Abschwächungen (archiviert) - https://github.com/nsacyber/Pass-the-Hash-Guidance
+13. Konfig für Festplattenverschlüsselung mit BitLocker (archiviert) - https://github.com/nsacyber/BitLocker-Guidance
+14. Sammlung von sicherheitsrelevanten Windows-Ereignissen im Ereignisprotokoll unter Verwendung von Windows Event Forwarding - https://github.com/nsacyber/Event-Forwarding-Guidance
+15. Windows Defense in Depth Strategies (In Arbeit) - https://docs.google.com/document/d/1_43UroB0zY4-R2E2r_nH4ndYpDmXAY8g0oTp8yWlwBk/edit#
+16. Endpoint Isolation with the Windows Firewall - https://medium.com/@cryps1s/endpoint-isolation-with-the-windows-firewall-462a795f4cfb
+
+Weiteres: Active Directory und ADFS siehe unten.
+
+### macOS
+1. IPv6 Hardening Guide for OS-X - https://ernw.de/download/ERNW_Hardening_IPv6_MacOS-X_v1_0.pdf
+
+### Network Devices
+1. Harden Network Devices (Gute Zusammenfassung) - https://apps.nsa.gov/iaarchive/library/ia-guidance/security-tips/harden-network-devices.cfm
+
+#### Switches
+1. Layer 2 Switch Security Requirements Guide - https://www.stigviewer.com/stig/layer_2_switch_security_requirements_guide/
+
+#### Routers
+1. A GUIDE TO BORDER GATEWAY PROTOCOL (BGP) BEST PRACTICES - https://www.nsa.gov/portals/75/documents/what-we-do/cybersecurity/professional-resources/ctr-guide-to-border-gateway-protocol-best-practices.pdf?v=1
+
+#### IPv6
+1. ERNW - Entwicklung einer IPv6-Sicherheitsstrategie für Unternehmen - Netzwerkisolierung auf der Routing-Schicht, Verkehrsfilterung in IPv6-Netzwerken
+   1. Teil: https://insinuator.net/2015/12/developing-an-enterprise-ipv6-security-strategy-part-1-baseline-analysis-of-ipv4-network-security/
+   2. Teil: https://insinuator.net/2015/12/developing-an-enterprise-ipv6-security-strategy-part-2-network-isolation-on-the-routing-layer/
+   3. Teil: https://insinuator.net/2015/12/developing-an-enterprise-ipv6-security-strategy-part-3-traffic-filtering-in-ipv6-networks-i/
+   4. Teil: https://insinuator.net/2015/12/developing-an-enterprise-ipv6-security-strategy-part-4-traffic-filtering-in-ipv6-networks-ii/
+
+Ebenfalls relevant sind die Links unter GNU/Linux, Windows und macOS
+
+#### Firewalls
+1. Guidelines on Firewalls and Firewall Policy - https://www.nist.gov/publications/guidelines-firewalls-and-firewall-policy
+2. Iptables Essentials: Common Firewall Rules and Commands - https://github.com/trimstray/iptables-essentials
+
+### Virtualisierung - VMware
+1. VMware Security Hardening Guides - https://www.vmware.com/security/hardening-guides.html
+2. Securing VMware - https://www.cisecurity.org/benchmark/vmware
+3. STIGs Document Library - https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=virtualization
+4. Security aspects of virtualization - https://www.enisa.europa.eu/publications/security-aspects-of-virtualization
+5. Guide to Security for Full Virtualization Technologies - https://www.nist.gov/publications/guide-security-full-virtualization-technologies
+6. Security Recommendations for Server-based Hypervisor Platforms - https://csrc.nist.gov/publications/detail/sp/800-125a/rev-1/final
+7. Secure Virtual Network Configuration for Virtual Machine (VM) Protection - https://csrc.nist.gov/publications/detail/sp/800-125b/final
+8. SICHERHEITSEMPFEHLUNGEN FÜR VMWARE VSPHERE ESXI-BASIERTE ARCHITEKTUREN (französisch) - https://www.ssi.gouv.fr/guide/recommandations-de-securite-pour-les-architectures-basees-sur-vmware-vsphere-esxi/
+
+### Containers - Docker
+1. How To Harden Your Docker Containers - https://www.secjuice.com/how-to-harden-docker-containers/
+2. Securing Docker - https://www.cisecurity.org/benchmark/docker
+3. Application Container Security Guide - https://www.nist.gov/publications/application-container-security-guide
+4. A Practical Introduction to Container Security - https://cloudberry.engineering/article/practical-introduction-container-security/
+
+### Services
+#### SSH
+
 
 <a name="section15"></a>
 ## Crypto
