@@ -13,7 +13,8 @@
 12. [ Editoren ](#section11)
 13. [ Dokumentation ](#section12)
 14. [ Hacking ](#section13)
-15. [ Crypto ](#section14)
+15. [ Security Hardening Guides and Best Practices ](#section14)
+16. [ Crypto ](#section15)
 
 
 <a name="intro"></a>
@@ -245,7 +246,7 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 
 
 <a name="section13"></a>
-## Hacking
+## Hacking / Security Hardening Guides and Best Practices
 ### Metasploit
 1. Quick Start Guide - https://docs.rapid7.com/metasploit/quick-start-guide/
 2. Metasploit Filesystem and Libraries - https://www.offensive-security.com/metasploit-unleashed/filesystem-and-libraries/
@@ -253,17 +254,16 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 ### Toolsammlung
 1. The Hacker's Tools - https://www.kitploit.com
 
-## C&C-Server
+### C&C-Server
 1. Finding & Attributing Malicious Command & Control Servers - https://fabian-voith.de/2020/09/30/finding-attributing-malicious-command-control-servers/
 2. Command and Control Server Detection: Methods & Best Practices - https://cybersecurity.att.com/blogs/security-essentials/command-and-control-server-detection-methods-best-practices)
 3. Creating botnet C&C server. What architecture should I use? - https://security.stackexchange.com/questions/100577/creating-botnet-cc-server-what-architecture-should-i-use-irc-http
 4. Command-and-Control Server (C&C-Server) - https://www.computerweekly.com/de/definition/Command-and-Control-Server-CC-Server
 5. Command-and-Control-Server - https://it-forensik.fiw.hs-wismar.de/index.php/Command-and-Control-Server
 
-## Maleware
+### Maleware
 1. Metamorphe und polymorphe Malware - https://www.computerweekly.com/de/definition/Metamorphe-und-polymorphe-Malware
 2. Poisonous Python. Coding malware in Python: a locker, an encryptor, and a virus - https://hackmag.com/coding/python-malware/
-
 
 ### OWSAP
 1. Threat Modeling - https://owasp.org/www-community/Threat_Modeling
@@ -273,7 +273,7 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 1. Security Training for Developers - https://www.hacksplaining.com/
 2. Hack with GitHub - https://github.com/Hack-with-Github/Awesome-Hacking
 
-## Burp Suite
+### Burp Suite
 1. Burp Suite - https://portswigger.net/burp
 2. Active Scan++ - https://portswigger.net/bappstore/3123d5b5f25c4128894d97ea1acc4976
 3. Burp Sentinel - https://github.com/dobin/BurpSentinel
@@ -284,7 +284,7 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 8. Logger++ - https://portswigger.net/bappstore/470b7057b86f41c396a97903377f3d81
 9. WSDL Wizard - https://portswigger.net/bappstore/ef2f3f1a593d417987bb2ddded760aee
 
-## Web Hacking
+### Web Hacking
 1. JSParser - https://github.com/nahamsec/JSParser
 2. Knock Subdomain Scan v5.3.0 - https://github.com/guelfoweb/knock
 3. lazys3 A Ruby script to bruteforce for AWS s3 buckets using different permutations - https://github.com/nahamsec/lazys3
@@ -384,6 +384,29 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 10. SwiftnessX v0.2 - https://github.com/ehrishirajsharma/SwiftnessX
 
 <a name="section14"></a>
+## Hardening Guides and Best Practices
+### Hardening Guide Collections
+1. CIS Benchmarks (Anmeldung erforderlich) - https://www.cisecurity.org/cis-benchmarks/
+2. ANSSI Best Practices - https://www.ssi.gouv.fr/en/best-practices/
+3. NSA Cybersecurity publications - https://nsacyber.github.io/publications.html
+4. NSA|CSS Security Configuration Guidance - https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/
+5. NSA Preventing and Eradicating Cyber Threats - https://www.nsa.gov/Cybersecurity/
+   1. NSA Post-Quantum Cybersecurity Resources - https://www.nsa.gov/Cybersecurity/Post-Quantum-Cybersecurity-Resources/
+7. Security Technical Implementation Guides (STIGs) - https://public.cyber.mil/stigs/
+8. Machine-readable descriptions of the rules of infrastructure - https://www.open-scap.org/security-policies/
+9. Australian Cyber Security Center Publications - https://www.cyber.gov.au/acsc/view-all-content/publications
+10. FIRST Best Practice Guide Library (BPGL) - https://www.first.org/resources/guides/
+11. Harden the World | procedures, configurations and a way to harden services - http://docs.hardentheworld.org/
+
+### GNU/Linux
+1. CONFIGURATION RECOMMENDATIONS OF A GNU/LINUX SYSTEM - https://www.ssi.gouv.fr/en/guide/configuration-recommendations-of-a-gnulinux-system/
+2. CIS | Securing Distribution Independent Linux - https://www.cisecurity.org/benchmark/distribution_independent_linux
+3. The Practical Linux Hardening Guide (step-by-step instructions) - https://github.com/trimstray/the-practical-linux-hardening-guide
+4. Linux hardening Checklist - https://github.com/trimstray/linux-hardening-checklist
+5. How To Secure A (single) Linux Server - https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
+6. 40 Linux Server Hardening Security Tips 2021 edition - https://www.cyberciti.biz/tips/linux-security.html
+
+<a name="section15"></a>
 ## Crypto
 ### AES
 1. Wikipedia - https://de.wikipedia.org/wiki/Advanced_Encryption_Standard
