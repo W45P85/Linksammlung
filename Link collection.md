@@ -246,7 +246,7 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 
 
 <a name="section13"></a>
-## Hacking / Security Hardening Guides and Best Practices
+## Hacking
 ### Metasploit
 1. Quick Start Guide - https://docs.rapid7.com/metasploit/quick-start-guide/
 2. Metasploit Filesystem and Libraries - https://www.offensive-security.com/metasploit-unleashed/filesystem-and-libraries/
@@ -405,6 +405,21 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 4. Linux hardening Checklist - https://github.com/trimstray/linux-hardening-checklist
 5. How To Secure A (single) Linux Server - https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
 6. 40 Linux Server Hardening Security Tips 2021 edition - https://www.cyberciti.biz/tips/linux-security.html
+7. Tips To Protect Linux Servers Physical Console Access - https://www.cyberciti.biz/tips/tips-to-protect-linux-servers-physical-console-access.html
+8. 4 Ways to Disable Root Account in Linux - https://www.tecmint.com/disable-root-login-in-linux/
+9. IPv6 Hardening Guide for Linux Servers - https://ernw.de/download/ERNW_Guide_to_Securely_Configure_Linux_Servers_For_IPv6_v1_0.pdf
+10. Iptables Essentials: Common Firewall Rules and Commands - https://github.com/trimstray/iptables-essentials
+11. Best Practice Auditd Configuration - https://github.com/Neo23x0/auditd
+
+#### Red Hat Enterprise Linux - RHEL
+1. Concepts and techniques to secure RHEL servers and workstations - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/security_guide/index
+2. STIGs Document Library - https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=unix-linux
+3. Securing Red Hat Enterprise Linux - https://www.cisecurity.org/benchmark/red_hat_linux
+4. FirewallD on RHEL 8 - https://www.cyberciti.biz/faq/configure-set-up-a-firewall-using-firewalld-on-rhel-8/
+
+#### CentOS
+1. CentOS 7 Server Hardening Guide - https://www.lisenet.com/2017/centos-7-server-hardening-guide/
+2. Security Harden CentOS 7 - https://highon.coffee/blog/security-harden-centos-7/
 
 <a name="section15"></a>
 ## Crypto
