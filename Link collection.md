@@ -491,7 +491,85 @@ Ebenfalls relevant sind die Links unter GNU/Linux, Windows und macOS
 
 ### Services
 #### SSH
+1. Security of Interactive and Automated Access Management Using Secure Shell (SSH) - https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.7966.pdf
+2. (Open)SSH secure use recommendations - https://www.ssi.gouv.fr/en/guide/openssh-secure-use-recommendations/
+3. Linux Audit OpenSSH security and hardening - https://linux-audit.com/audit-and-harden-your-ssh-configuration/
+4. SSH Hardening Guides (2017-2018) - mit Schwerpunkt auf Krypto-Algorithmen - https://www.sshaudit.com/hardening_guides.html
+5. Secure Secure Shell (2015) - einige Algorithmusempfehlungen könnten leicht veraltet sein! - https://stribika.github.io/2015/01/04/secure-secure-shell.html
+6. Applied Crypto Hardening - praktische Referenz für die Konfiguration der Kryptoeinstellungen der gängigsten Dienste (TLS/SSL, PGP, SSH und andere kryptografische Tools) - https://bettercrypto.org
+7. Key Exchange (KEX) Method Updates and Recommendations for Secure Shell (SSH) - Aktualisierung des empfohlenen Satzes von Schlüsselaustauschmethoden für die Verwendung im Secure Shell (SSH)-Protokoll, um den sich entwickelnden Anforderungen an die Sicherheit gerecht zu werden. Dieses Dokument aktualisiert RFC 4250. - https://datatracker.ietf.org/doc/html/draft-ietf-curdle-ssh-kex-sha2-10
+8. SSH Best Practices using Certificates, 2FA and Bastions - wie SSH für die Verwendung von Zertifikaten und 2FA konfiguriert wird - https://goteleport.com/blog/how-to-ssh-properly/
 
+#### TLS/SSL
+1. Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations - 2018, empfiehlt TLS 1.3 - https://csrc.nist.gov/publications/detail/sp/800-52/rev-2/archive/2017-11-15
+2. Security Recommendations for TLS - https://www.ssi.gouv.fr/en/guide/security-recommendations-for-tls/
+3. IT Security Guidelines for Transport Layer Security (TLS) - https://english.ncsc.nl/binaries/ncsc-en/documenten/publications/2019/juni/01/it-security-guidelines-for-transport-layer-security-tls/IT+Security+Guidelines+for+Transport+Layer+Security+v2.0.pdf
+4. SSL and TLS Deployment Best Practices - https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices
+5. RFC 7540 Appendix A TLS 1.2 Cipher Suite Black List - https://datatracker.ietf.org/doc/html/rfc7540#appendix-A
+6. Applied Crypto Hardening - praktische Referenz für die Konfiguration der Kryptoeinstellungen der gängigsten Dienste (TLS/SSL, PGP, SSH und andere kryptografische Tools) - https://bettercrypto.org
+
+#### Web Servers
+1. Cipherli.st Strong Ciphers for Apache, nginx and Lighttpd - https://syslink.pl/cipherlist/
+
+##### Apache HTTP Server
+1. Apache HTTP Server documentation - Security Tips - https://httpd.apache.org/docs/current/misc/security_tips.html
+2. Apache Web Server Hardening and Security Guide  - https://geekflare.com/apache-web-server-hardening-security/
+3. Apache config - https://www.apachecon.eu/
+
+##### Apache Tomcat
+1. Apache Tomcat 9 - https://tomcat.apache.org/tomcat-9.0-doc/security-howto.html
+2. Apache Tomcat 8 - https://tomcat.apache.org/tomcat-8.0-doc/security-howto.html
+3. Apache Tomcat 7 - https://tomcat.apache.org/tomcat-7.0-doc/security-howto.html
+4. Securing tomcat (archiv) - https://wiki.owasp.org/index.php/Securing_tomcat
+5. serverfault | How to get Tomcat 9 to work with authbind to bind to port 80? - https://serverfault.com/questions/889122/how-to-get-tomcat-9-to-work-with-authbind-to-bind-to-port-80
+
+##### Eclipse Jetty
+1. Jetty Documentation - https://www.eclipse.org/jetty/documentation.php
+2. Jetty hardening - https://virgo47.wordpress.com/2015/02/07/jetty-hardening/
+
+##### Microsoft IIS
+1. CIS Microsoft IIS Benchmarks - https://learn.cisecurity.org/benchmarks
+
+#### Mail Servers
+
+#### FTP Servers
+
+#### Database Servers
+
+#### Active Directory
+1. Microsoft - Best Practices for Securing Active Directory - https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory
+2. ANSSI CERT-FR - Active Directory Security Assessment Checklist - 2020 (Englisch und Französisch) - https://www.cert.ssi.gouv.fr/uploads/guide-ad.html
+3. "Admin Free" Active Directory and Windows, Part 1- Understanding Privileged Groups in AD - https://docs.microsoft.com/de-de/archive/blogs/lrobins/admin-free-active-directory-and-windows-part-1-understanding-privileged-groups-in-ad
+4. "Admin Free" Active Directory and Windows, Part 2- Protected Accounts and Groups in Active Directory - https://docs.microsoft.com/de-de/archive/blogs/lrobins/admin-free-active-directory-and-windows-part-2-protected-accounts-and-groups-in-active-directory
+
+#### Active Directory Federation Server
+1. Securing Microsoft Active Directory Federation Server (ADFS) - https://adsecurity.org/?p=3782
+2. Best practices for securing Active Directory Federation Services - https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/deployment/best-practices-securing-ad-fs
+
+#### Kerberos
+1. Securing MIT Kerberos - https://www.cisecurity.org/benchmark/mit_kerberos
+
+#### LDAP
+1. OpenLDAP Administrator Guide - https://www.openldap.org/doc/
+   - OpenLDAP Software Security Considerations - https://www.openldap.org/doc/admin24/security.html
+2. Best Practices in LDAP Security - https://www.skills-1st.co.uk/papers/ldap-best-2011/best-practices-in-ldap-security.pdf
+3. LDAP: Hardening Server Security - https://ff1959.wordpress.com/2013/07/31/ldap-hardening-server-security-so-administrators-can-sleep-at-night/
+4. LDAP Authentication Best Practices - https://web.archive.org/web/20130801091446/http://www.ldapguru.info/ldap/authentication-best-practices.html
+5. Hardening OpenLDAP on Linux with AppArmor and systemd - https://www.openldap.org/conf/odd-tuebingen-2018/Michael1.pdf
+6. Chapter 15. LDAP Security - https://www.zytrax.com/books/ldap/ch15/
+7. How To Encrypt OpenLDAP Connections Using STARTTLS - https://www.digitalocean.com/community/tutorials/how-to-encrypt-openldap-connections-using-starttls
+
+#### DNS
+1. Securing BIND - https://www.cisecurity.org/benchmark/bind
+2. SRG / STIG Library Compilations - https://public.cyber.mil/stigs/compilations/
+3. Secure Domain Name System (DNS) Deployment Guide - https://csrc.nist.gov/publications/detail/sp/800-81/2/final
+4. Six Best Practices for Securing a Robust Domain Name System (DNS) Infrastructure  - https://insights.sei.cmu.edu/blog/six-best-practices-for-securing-a-robust-domain-name-system-dns-infrastructure/
+
+#### NTP
+1. Network Time Protocol Best Current Practices - https://datatracker.ietf.org/doc/html/draft-ietf-ntp-bcp-13
+2. Best Practices for NTP Services - https://insights.sei.cmu.edu/blog/best-practices-for-ntp-services/
+3. NTP — Part 2: Security Options - https://www.linux.com/topic/networking/arrive-time-ntp-part-2-security-options/
+4. NTP — Part 3: Secure Setup - https://www.linux.com/topic/networking/arrive-time-ntp-part-3-secure-setup/
 
 <a name="section15"></a>
 ## Crypto
@@ -499,6 +577,11 @@ Ebenfalls relevant sind die Links unter GNU/Linux, Windows und macOS
 1. Wikipedia - https://de.wikipedia.org/wiki/Advanced_Encryption_Standard
 2. https://cryptobook.nakov.com/symmetric-key-ciphers/aes-encrypt-decrypt-examples
 3. AES Example - Input (128 bit key and message) - https://www.kavaliro.com/wp-content/uploads/2014/03/AES.pdf
+4. Applied Crypto Hardening - https://bettercrypto.org
 
 ### Mail
 1. CCC Vortrag - https://media.ccc.de/v/petit-foo-mailencryption#t=95
+
+
+## HTTP
+1. Hypertext Transfer Protocol Version 2 - https://datatracker.ietf.org/doc/html/rfc7540
