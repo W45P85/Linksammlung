@@ -15,6 +15,7 @@
 14. [ Hacking ](#section13)
 15. [ Security Hardening Guides and Best Practices ](#section14)
 16. [ Crypto ](#section15)
+17. [ Suchmaschinen ](#section16)
 
 
 <a name="intro"></a>
@@ -585,3 +586,19 @@ Ebenfalls relevant sind die Links unter GNU/Linux, Windows und macOS
 
 ## HTTP
 1. Hypertext Transfer Protocol Version 2 - https://datatracker.ietf.org/doc/html/rfc7540
+
+<a name="section16"></a>
+##Suchmaschinen
+1. Shodan - Suchmaschine für internetfähige Geräte (IoT) - https://shodan.io
+2. unbekannte und nicht verwaltete Internet-Assets – einschließlich Services, Hosts, Websites, Speicherbereiche und Cloud-Accounts - https://censys.io
+3. E-Mail-Adressen - https://hunter.io
+4. Sicherheitslücken und Schwachstellen - https://fullhunt.io
+5. Cyber-Abwehr und Bedrohungen (Kostenpflichtig) - https://onyphe.io 
+6. Darknet - https://socradar.io
+7. Scanner und eigene Honeypots - https://binaryedge.io
+8. Open-Source-Framework für die Netzwerkaufklärung - https://ivre.rocks
+9. Web-Zertifikate - https://crt.sh
+10. Sicherheitslücken und Bedrohungen - https://vulners.com
+11. Sourcecode-Suchmaschine - https://publicwww.com
+12. Sicherheitsforscher und Cyber-Enthusiasten - https://pulsedive.com
+13. Open Source Intelligence und OSINT - https://intelx.io
