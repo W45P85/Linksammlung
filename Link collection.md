@@ -602,3 +602,5 @@ Ebenfalls relevant sind die Links unter GNU/Linux, Windows und macOS
 11. Sourcecode-Suchmaschine - https://publicwww.com
 12. Sicherheitsforscher und Cyber-Enthusiasten - https://pulsedive.com
 13. Open Source Intelligence und OSINT - https://intelx.io
+14. Informationen über drahtlose Netzwerke in aller Welt - https://wigle.net
+15. sammelt, analysiert und kennzeichnet Daten über IPs - https://greynoise.io
