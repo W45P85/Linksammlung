@@ -588,7 +588,7 @@ Ebenfalls relevant sind die Links unter GNU/Linux, Windows und macOS
 1. Hypertext Transfer Protocol Version 2 - https://datatracker.ietf.org/doc/html/rfc7540
 
 <a name="section16"></a>
-##Suchmaschinen
+## Suchmaschinen
 1. Shodan - Suchmaschine für internetfähige Geräte (IoT) - https://shodan.io
 2. unbekannte und nicht verwaltete Internet-Assets – einschließlich Services, Hosts, Websites, Speicherbereiche und Cloud-Accounts - https://censys.io
 3. E-Mail-Adressen - https://hunter.io
