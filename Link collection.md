@@ -25,7 +25,7 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 <a name="section1"></a>
 ## News
 1. Netzpolitik.org - https://netzpolitik.org/  
-2. Golem - IT-News für Profis - ttps://www.golem.de/                                        
+2. Golem - IT-News für Profis - https://www.golem.de/                                        
 3. Heise online - https://www.heise.de/                                        
 4. Tarnkappe.info (Daten- und Verbraucherschutz, IT-Sicherheit, Netzpolitik und Urheberrecht) - https://tarnkappe.info/     
 5. Fefe's Blog - https://blog.fefe.de/                                        
@@ -41,6 +41,11 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 4. Die Dokumente unserer Demokratie - https://www.dokukratie.de/
 5. Script to download archive.org books in PDF format - https://github.com/MiniGlome/Archive.org-Downloader
 
+#### Password Generators
+1. How-To Geek - 10 Ways to Generate a Random Password from the Linux Command Line - https://www.howtogeek.com/howto/30184/10-ways-to-generate-a-random-password-from-the-command-line/
+2. Vitux - 8 Ways to Generate a Random Password on Linux Shell - https://vitux.com/generation-of-a-random-password-on-linux-shell/
+3. SS64 - Password security and a comparison of Password Generators - https://ss64.com/docs/security.html
+
 
 <a name="section3"></a>
 ## Lernen (Video)
@@ -48,6 +53,12 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 2. Tutorials & Schulungsvideos - https://tutsnode.net/                                        
 3. Free Online Courses - https://inprogrammer.com/category/free-online-courses/       
 
+#### Bücher
+##### Andere interessante Linksammlungen
+1. A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams - https://github.com/fabacab/awesome-cybersecurity-blueteam
+
+##### Security Linksammlungen
+1. 
 
 <a name="section4"></a>
 ## Python
@@ -571,6 +582,92 @@ Ebenfalls relevant sind die Links unter GNU/Linux, Windows und macOS
 2. Best Practices for NTP Services - https://insights.sei.cmu.edu/blog/best-practices-for-ntp-services/
 3. NTP — Part 2: Security Options - https://www.linux.com/topic/networking/arrive-time-ntp-part-2-security-options/
 4. NTP — Part 3: Secure Setup - https://www.linux.com/topic/networking/arrive-time-ntp-part-3-secure-setup/
+
+#### NFS
+1. Security and NFS - https://tldp.org/HOWTO/NFS-HOWTO/security.html
+2. Red Hat - A Guide to Securing Red Hat Enterprise Linux 7 - Securing NFS - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/security_guide/index#sec-Securing_NFS
+3. Red Hat - RHEL7 Storage Administration Guide - Securing NFS - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/storage_administration_guide/s1-nfs-security
+4. NFSv4 without Kerberos and permissions - https://lists.debian.org/debian-user/2017/10/msg00476.html
+5. RHEL7: Use Kerberos to control access to NFS network shares - https://www.certdepot.net/rhel7-use-kerberos-control-access-nfs-network-shares/
+
+#### CUPS
+1. Server Security - https://www.cups.org/doc/security.html
+
+### Authentication - Passwords
+1. Password administration for system owners - https://www.ncsc.gov.uk/collection/passwords
+2. Digital Identity Guidelines - https://pages.nist.gov/800-63-3/
+3. Password Storage Cheat Sheet - https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html
+
+### Hardware - CPU - BIOS - UEFI
+1. recommendations for security features and configuration options applying to hardware devices (CPU, BIOS, UEFI, etc) (Nov 2019) - https://www.ssi.gouv.fr/en/guide/hardware-security-requirements-for-x86-platforms/
+2. Guidance for the Spectre, Meltdown, Speculative Store Bypass, Rogue System Register Read, Lazy FP State Restore, Bounds Check Bypass Store, TLBleed, and L1TF/Foreshadow vulnerabilities as well as general hardware and firmware security guidance. - https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance
+3. NSA Info Sheet: UEFI Lockdown Quick Guidance (March 2018) - https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-uefi-lockdown.pdf?v=1
+4. NSA Tech Report: UEFI Defensive Practices Guidance (July 2017) - https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/ctr-uefi-defensive-practices-guidance.pdf?ver=2018-11-06-074836-090
+
+### Cloud
+1. NSA Info Sheet: Cloud Security Basics (August 2018) - https://www.nsa.gov/Portals/70/documents/what-we-do/cybersecurity/professional-resources/csi-cloud-security-basics.pdf?v=1
+2. DISA DoD Cloud Computing Security - https://iase.disa.mil/cloud_security/Pages/index.aspx
+3. A free repository of customizable AWS security configurations and best practices - https://asecure.cloud/
+
+### Tools
+#### Tools to check security hardening
+1. open-source testing framework by Chef that enables you to specify compliance, security, and other policy requirements. can run on Windows and many Linux distributions - https://www.inspec.io/
+
+#### GNU/Linux
+1. script to check the configuration of Linux hosts - https://cisofy.com/lynis/
+2. oscap command line tool - https://www.open-scap.org/tools/openscap-base/
+3. GUI for oscap - https://www.open-scap.org/tools/scap-workbench/
+4. Tiger - The Unix security audit and intrusion detection tool (scheint abgelaufen zu sein) - https://www.nongnu.org/tiger/
+5. otseca - Open source security auditing tool to search and dump system configuration. It allows you to generate reports in HTML or RAW-HTML formats - https://github.com/trimstray/otseca
+6. A tool to identify sudo rules' misconfigurations and vulnerabilities within sudo - https://github.com/TH3xACE/SUDO_KILLER
+7. bash script which performs tests against your CentOS system to give an indication of whether the running server may comply with the CIS v2.2.0 Benchmarks for CentOS (only CentOS 7 for now) - https://github.com/finalduty/cis_benchmarks_audit
+
+#### Windows
+1. set of tools that allows enterprise security administrators to download, analyze, test, edit, and store Microsoft-recommended security configuration baselines for Windows and other Microsoft products - https://docs.microsoft.com/en-us/windows/security/threat-protection/security-compliance-toolkit-10
+2. simple implementation of PowerShell Desired State Configuration that uses the declarative nature of DSC to scan Windows OS based systems in an environment against a defined reference MOF file and generate compliance reports as to whether systems match the desired configuration - https://microsoft.github.io/DSCEA/
+3. Scripts for comparing Microsoft Windows compliance with the Australian ASD 1709 & Office 2016 Hardening Guides - https://github.com/cottinghamd/HardeningAuditor/
+4. Tool to check the security of Active Directory - https://www.pingcastle.com/
+
+#### Network Devices
+1. To check the configuration of network devices (does not seem to be updated) - https://github.com/arpitn30/nipper-ng
+
+#### TLS/SSL
+1. Qualys SSL Labs - List of tools to assess TLS/SSL servers and clients - https://github.com/ssllabs/research/wiki/Assessment-Tools
+2. checks the SSL/TLS configuration of a server - https://ssldecoder.daniel-ruf.de/
+
+#### SSH
+1. SSH server auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc) - https://github.com/arthepsy/ssh-audit
+
+#### Hardware - CPU - BIOS - UEFI
+1. framework for analyzing the security of PC platforms including hardware, system firmware (BIOS/UEFI), and platform components - https://github.com/chipsec/chipsec
+2. Tools to generate a Debian Linux distribution with chipsec to test hardware requirements - https://github.com/ANSSI-FR/chipsec-check
+
+#### Docker
+1. script that checks for dozens of common best-practices around deploying Docker containers in production, inspired by the CIS Docker Community Edition Benchmark v1.1.0. - https://github.com/docker/docker-bench-security
+
+#### Cloud
+1. List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc. - https://github.com/toniblyx/my-arsenal-of-aws-security-tools
+
+### Tools to apply security hardening
+1. a framework to automate hardening of OS and applications, using Chef, Ansible and Puppet - https://dev-sec.io/
+
+#### GNU/Linux
+1. Linux Server Hardener for Debian/Ubuntu (2019) - https://github.com/pratiktri/server_init_harden
+2. Bastille Linux - outdated - http://bastille-linux.sourceforge.net/
+
+#### Windows
+1. set of tools that allows enterprise security administrators to download, analyze, test, edit, and store Microsoft-recommended security configuration baselines for Windows and other Microsoft products - https://docs.microsoft.com/en-us/windows/security/threat-protection/security-compliance-toolkit-10
+2. for Windows individual users (not corporate environments) at risk, who might want an extra level of security at the price of some usability - https://github.com/securitywithoutborders/hardentools
+3. A collective resource of settings modifications (mostly opt-outs) that attempt to make Windows 10 as private and as secure as possible - https://github.com/aghorler/Windows-10-Hardening
+4. PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019 - https://github.com/Disassembler0/Win10-Initial-Setup-Script
+5. A PowerShell script that aims to have a fully configured domain built in under 10 minutes, but also apply security configuration and hardening - https://github.com/OneLogicalMyth/Automated-AD-Setup
+6. Script to perform some hardening of Windows 10 - https://gist.github.com/mackwage/08604751462126599d7e52f233490efe
+
+#### TLS/SSL
+1. Mozilla SSL Configuration Generator - https://ssl-config.mozilla.org/
+
+#### Cloud
+1. List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc. - https://github.com/toniblyx/my-arsenal-of-aws-security-tools
 
 <a name="section15"></a>
 ## Crypto
