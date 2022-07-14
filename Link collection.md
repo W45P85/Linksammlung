@@ -48,16 +48,17 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 
 
 <a name="section3"></a>
-## Lernen (Video)
+## Lernen
+###Video
 1. Udemy Videokurse - https://www.udemy.com/                                       
 2. Tutorials & Schulungsvideos - https://tutsnode.net/                                        
 3. Free Online Courses - https://inprogrammer.com/category/free-online-courses/       
 
-#### Bücher
-##### Andere interessante Linksammlungen
+### Bücher
+### Andere interessante Linksammlungen
 1. A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams - https://github.com/fabacab/awesome-cybersecurity-blueteam
 
-##### Security Linksammlungen
+#### Security Linksammlungen
 1. 
 
 <a name="section4"></a>
