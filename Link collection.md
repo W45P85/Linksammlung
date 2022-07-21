@@ -37,9 +37,10 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 ## Nützliches
 1. KOSTENLOSE TRASHMAIL ERSTELLEN - https://www.txen.de/
 2. Namensgenerator - https://de.fakenamegenerator.com/
-3. Proxyserver - https://www.proxy-listen.de/
-4. Die Dokumente unserer Demokratie - https://www.dokukratie.de/
-5. Script to download archive.org books in PDF format - https://github.com/MiniGlome/Archive.org-Downloader
+3. (Linux Command Line) Passwortgenerator - https://www.howtogeek.com/howto/30184/10-ways-to-generate-a-random-password-from-the-command-line/
+4. Proxyserver - https://www.proxy-listen.de/
+5. Die Dokumente unserer Demokratie - https://www.dokukratie.de/
+6. Script to download archive.org books in PDF format - https://github.com/MiniGlome/Archive.org-Downloader
 
 #### Password Generators
 1. How-To Geek - 10 Ways to Generate a Random Password from the Linux Command Line - https://www.howtogeek.com/howto/30184/10-ways-to-generate-a-random-password-from-the-command-line/
@@ -49,17 +50,36 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 
 <a name="section3"></a>
 ## Lernen
-###Video
+### Video
 1. Udemy Videokurse - https://www.udemy.com/                                       
 2. Tutorials & Schulungsvideos - https://tutsnode.net/                                        
 3. Free Online Courses - https://inprogrammer.com/category/free-online-courses/       
 
 ### Bücher
-### Andere interessante Linksammlungen
+#### Andere interessante Linksammlungen
 1. A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams - https://github.com/fabacab/awesome-cybersecurity-blueteam
 
 #### Security Linksammlungen
-1. 
+1. Ressourcen, Tools und Dinge für blue Teams - https://github.com/fabacab/awesome-cybersecurity-blueteam
+2. Sammlung Software, Bibliotheken, Dokumente, Bücher, Ressourcen & Cooles Zeuch - https://github.com/sbilly/awesome-security
+3. Sammlung von Ressourcen zur Android-Sicherheit - https://github.com/ashishb/android-security-awesome
+4. CTF-Frameworks, Bibliotheken, Ressourcen und Software - https://github.com/apsdehal/awesome-ctf
+5. Legale und sichere Hacking-Umgebungen - https://github.com/joe-shenouda/awesome-cyber-skills
+6. Hacking-Tutorials, Tools und Ressourcen - https://github.com/carpedm20/awesome-hacking
+7. Honeypot-Ressourcen - https://github.com/paralax/awesome-honeypots
+8. Tools und Ressourcen zur Malware-Analyse - https://github.com/rshipp/awesome-malware-analysis
+9. Von Forschern entwickelte Werkzeuge zur Verarbeitung von Netzspuren - https://github.com/caesar0301/awesome-pcaptools
+10. Ressourcen für Penetrationstests, Tools und anderer Dinge - https://github.com/enaqx/awesome-pentest
+11. Linux Containers frameworks, libraries und software - https://github.com/Friz-zy/awesome-linux-containers
+12. Ressourcen für die Reaktion auf Vorfälle - https://github.com/meirwah/awesome-incident-response
+13. Lern-Einstiegspunkt für Webanwendungen - https://github.com/infoslack/awesome-web-hacking
+14. threat intelligence resources - https://github.com/hslatman/awesome-threat-intelligence
+15. Nützliche Spickzettel für Pentesting - https://github.com/coreb1t/awesome-pentest-cheat-sheets
+16. Industrial Control System (ICS) security - https://github.com/mpesen/awesome-industrial-control-system-security
+17. YARA rules, tools, and people - https://github.com/InQuest/awesome-yara
+18. Ressourcen zur Erkennung und Verfolgung von Bedrohungen - https://github.com/0x4D31/awesome-threat-detection
+19. Ressourcen zum Thema Container und Laufzeitsicherheit - https://github.com/kai5263499/container-security-awesome
+20. Kryptographie, Tutorials und Anleitungen - https://github.com/pFarb/awesome-crypto-papers
 
 <a name="section4"></a>
 ## Python
