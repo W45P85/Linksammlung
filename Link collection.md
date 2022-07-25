@@ -58,11 +58,12 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 
 ### Website
 1. OWASP Juice Shop - https://owasp.org/www-project-juice-shop/
-2. Cyber security on TryHackMe - https://tryhackme.com/
-3. Hacker101 CTF - https://ctf.hacker101.com/
-4. Root Me (CTF and more) - https://www.root-me.org/?lang=de
-5. CTF HAcking Akademie - https://ctftime.org/
-6. https://www.defcon.org/html/links/dc-ctf.html
+2. HAck the Box - https://www.hackthebox.com/
+3. Cyber security on TryHackMe - https://tryhackme.com/
+4. Hacker101 CTF - https://ctf.hacker101.com/
+5. Root Me (CTF and more) - https://www.root-me.org/?lang=de
+6. CTF HAcking Akademie - https://ctftime.org/
+7. https://www.defcon.org/html/links/dc-ctf.html
 
 ### Bücher
 #### Andere interessante Linksammlungen
