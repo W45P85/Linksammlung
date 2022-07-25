@@ -38,9 +38,10 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 1. KOSTENLOSE TRASHMAIL ERSTELLEN - https://www.txen.de/
 2. Namensgenerator - https://de.fakenamegenerator.com/
 3. (Linux Command Line) Passwortgenerator - https://www.howtogeek.com/howto/30184/10-ways-to-generate-a-random-password-from-the-command-line/
-4. Proxyserver - https://www.proxy-listen.de/
-5. Die Dokumente unserer Demokratie - https://www.dokukratie.de/
-6. Script to download archive.org books in PDF format - https://github.com/MiniGlome/Archive.org-Downloader
+4. Hash Generator/decoder - https://www.md5hashgenerator.com/
+5. Proxyserver - https://www.proxy-listen.de/
+6. Die Dokumente unserer Demokratie - https://www.dokukratie.de/
+7. Script to download archive.org books in PDF format - https://github.com/MiniGlome/Archive.org-Downloader
 
 #### Password Generators
 1. How-To Geek - 10 Ways to Generate a Random Password from the Linux Command Line - https://www.howtogeek.com/howto/30184/10-ways-to-generate-a-random-password-from-the-command-line/
@@ -54,6 +55,10 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 1. Udemy Videokurse - https://www.udemy.com/                                       
 2. Tutorials & Schulungsvideos - https://tutsnode.net/                                        
 3. Free Online Courses - https://inprogrammer.com/category/free-online-courses/       
+
+### Website
+1. OWASP Juice Shop - https://owasp.org/www-project-juice-shop/
+2. Cyber security on TryHackMe - https://tryhackme.com/
 
 ### Bücher
 #### Andere interessante Linksammlungen
