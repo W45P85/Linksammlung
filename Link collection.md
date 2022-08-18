@@ -32,7 +32,8 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 5. Fefe's Blog - https://blog.fefe.de/                                        
 6. T3N - https://t3n.de/news/
 7. IT-daily - https://www.it-daily.net/
-8. BLEEPINGCOMPUTER.COM - https://www.bleepingcomputer.com/                                         
+8. BLEEPINGCOMPUTER.COM - https://www.bleepingcomputer.com/ 
+9. The Hacker News - https://thehackernews.com/                                        
 
 
 <a name="section2"></a>
