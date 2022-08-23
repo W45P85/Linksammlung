@@ -55,9 +55,10 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 <a name="section3"></a>
 ## Lernen
 ### Video
-1. Udemy Videokurse - https://www.udemy.com/                                       
-2. Tutorials & Schulungsvideos - https://tutsnode.net/                                        
-3. Free Online Courses - https://inprogrammer.com/category/free-online-courses/       
+1. Udemy Videokurse - https://www.udemy.com/ 
+2. StackSkills - https://stackskills.com/                                      
+3. Tutorials & Schulungsvideos - https://tutsnode.net/                                        
+4. Free Online Courses - https://inprogrammer.com/category/free-online-courses/       
 
 ### Website
 1. OWASP Juice Shop - https://owasp.org/www-project-juice-shop/
