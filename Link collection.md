@@ -43,14 +43,6 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 3. Namensgenerator - https://de.fakenamegenerator.com/
 4. (Linux Command Line) Passwortgenerator - https://www.howtogeek.com/howto/30184/10-ways-to-generate-a-random-password-from-the-command-line/
 5. Hash Generator/decoder - https://www.md5hashgenerator.com/
-6. Proxyserver - https://www.proxy-listen.de/
-7. Die Dokumente unserer Demokratie - https://www.dokukratie.de/
-8. Script to download archive.org books in PDF format - https://github.com/MiniGlome/Archive.org-Downloader
-
-#### Password Generators
-1. How-To Geek - 10 Ways to Generate a Random Password from the Linux Command Line - https://www.howtogeek.com/howto/30184/10-ways-to-generate-a-random-password-from-the-command-line/
-2. Vitux - 8 Ways to Generate a Random Password on Linux Shell - https://vitux.com/generation-of-a-random-password-on-linux-shell/
-3. SS64 - Password security and a comparison of Password Generators - https://ss64.com/docs/security.html
 
 
 <a name="section3"></a>
@@ -102,80 +94,9 @@ Hi there, I'am W45P. Here I list all interesting links about News, Python, Git, 
 1. https://www.python.org/
 2. https://www.python.org/downloads/
 3. The Python Package Index (PyPI) - https://pypi.org/search/
-4. Python Tutorial https://www.tutorialspoint.com/python/index.htm
-5. Python for Windows Extensions Files - https://sourceforge.net/projects/pywin32/files/
-6. PEP 8 – Style Guide for Python Code - https://peps.python.org/pep-0008/
-7. 5 Python Task Automation Ideas - Guide with Examples - https://www.monterail.com/blog/python-task-automation-examples
-
-### Fun
-1. One line jokes for programmers (jokes as a service) - https://github.com/pyjokes/pyjokes
-
-### Bibliotheken
-1. Scipy Lecture Notes - https://scipy-lectures.org/
-2. 100 numpy exercises - https://github.com/rougier/numpy-100
-3. Numpy and Scipy Documentation - https://docs.scipy.org/doc/
-4. Matplotlib Users Guide - https://matplotlib.org/stable/users/index.html
-5. Matplotlib Examples - https://matplotlib.org/stable/gallery/index.html
-6. Matplotlib Tutorials - https://matplotlib.org/stable/tutorials/index.html
-7. uncertainties package - https://pythonhosted.org/uncertainties/
-8. SymPy - https://www.sympy.org/de/index.html
-9. pandas - https://pandas.pydata.org/
-10. Pint - https://pypi.org/project/Pint/
-
-### Web Frameworks, Content Management Systeme
-1. Flask - https://flask.palletsprojects.com/en/2.1.x/
-   - Python/Flask tutorial sample for Visual Studio Code - https://github.com/prast567/python-sample-vscode-flask-tutorial
-   - Flask Tutorial in Visual Studio Code - https://code.visualstudio.com/docs/python/tutorial-flask
-3. Zope - https://www.zope.dev/
-4. Django - https://www.djangoproject.com/
-   - Django Tutorial in Visual Studio Code - https://code.visualstudio.com/docs/python/tutorial-django
-6. Plone - The Ultimate Enterprise CMS - https://plone.org/
-
-### Vorlagensprachen (Templates)
-1. Jinja - https://jinja.palletsprojects.com/en/3.1.x/
-2. Mako - https://www.makotemplates.org/
-3. Cheetah3 - https://cheetahtemplate.org/
-
-### wxPython Graphical User Interface (GUI)
-1. wxPython - https://wxpython.org/#
-2. wxPython Forum - https://www.python-forum.de/viewforum.php?f=19
-3. wxPython mail - https://wxpython.org/pages/maillists/index.html
-4. wxPython weitere Links - https://www.python-forum.de/viewtopic.php?f=19&t=7916
-
-### Deutschsprachige Python-Seiten
-1. Python Netzwerk Deutschland  - https://www.python-netzwerk.de/
-2. Einführung Python - https://thomas-guettler.de/vortraege/python/einfuehrung.html
-3. Programmieren in Python (Kurs) - http://www.wspiegel.de/pykurs/pykurs.htm
-4. Das deutsche Python-Forum - https://www.python-forum.de/
-5. Übersicht deutscher Literatur - https://wiki.python.org/moin/GermanPythonBooks
-6. Die Skriptsprache Python im Vergleich zu Perl und Tcl - https://intern.fh-wedel.de/~si/seminare/ws99/Ausarbeitung/Python/
-7. Danny Yoo's: Ein Tag Spielerei mit IDLE - https://www.hashcollision.org/hkn/python/idle_intro/index_ger.html
-8. http://www.python.de/
-9. freiesMagazin Python-Sonderausgabe 04/2011 - http://www.freiesmagazin.de/20110417-python-sonderausgabe-erschienen.html
-
-### Englischsprachige Python-Seiten
-1. The Python Tutorial - https://docs.python.org/3/tutorial/index.html
-2. Learn Python, JavaScript, C, C++, and Java  - https://pythontutor.com/
-3. Dive Into Python 3 - https://diveintopython3.net/
-4. A Byte of Python - https://python.swaroopch.com/
-5. Popular Python recipes  - https://code.activestate.com/recipes/langs/python/
-6. IPython - https://ipython.org/
-7. Tim Golden's Python Stuff - http://timgolden.me.uk/python/
-8. Pexpect version 4.8 - https://pexpect.readthedocs.io/en/stable/
-
-### YouTube Tutorials
-1. Python As Fast as Possible - Learn Python in ~75 Minutes - https://www.youtube.com/watch?v=VchuKL44s6E
-2. Python for Beginners - Learn Python in 1 Hour - https://www.youtube.com/watch?v=kqtD5dpn9C8
-3. Python 3 Crash Course: Learn Python 3 in 1 hour - https://www.youtube.com/watch?v=DcEfZeR71qg
-
-### Scientific Python Tutorials
-1. Python Data Science Handbook - https://github.com/jakevdp/PythonDataScienceHandbook
-2. Lectures on scientific computing with Python - https://github.com/jrjohansson/scientific-python-lectures
-3. Jake Vanderplas - Keynote - PyCon 2017 - https://www.youtube.com/watch?v=ZyjCqQEUa8o&t=10s
-
-### Sonstige Links
-1. The Hitchhiker’s Guide to Python! - https://docs.python-guide.org/
-2. Think Python - https://greenteapress.com/wp/think-python/
+5. PEP 8 – Style Guide for Python Code - https://peps.python.org/pep-0008/
+6. The Hitchhiker’s Guide to Python! - https://docs.python-guide.org/
+7. Think Python - https://greenteapress.com/wp/think-python/
 
 ### Doku
 1. Five Tips for Automatic Python Documentation - https://towardsdatascience.com/five-tips-for-automatic-python-documentation-7513825b760e
