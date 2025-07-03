@@ -16,7 +16,6 @@
 15. [ Security Hardening Guides and Best Practices ](#section14)
 16. [ Crypto ](#section15)
 17. [ Suchmaschinen ](#section16)
-18. [ Kurse mit Zertifikat ](#section17)
 
 
 <a name="intro"></a>
@@ -661,10 +660,3 @@ Ebenfalls relevant sind die Links unter GNU/Linux, Windows und macOS
 13. Open Source Intelligence und OSINT - https://intelx.io
 14. Informationen über drahtlose Netzwerke in aller Welt - https://wigle.net
 15. sammelt, analysiert und kennzeichnet Daten über IPs - https://greynoise.io
-
-
-<a name="section17"></a>
-## Python
-1. Google IT Automation with Python Zertifikat über berufliche Qualifikation - https://www.coursera.org/professional-certificates/google-it-automation?irclickid=xm-SEK05MxyNUfiwVmR-c3kUUkD3uJQ9D0v4WE0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2763163&utm_content=b2c
-2. Spezialisierung Fundamentals of Computing - https://www.coursera.org/specializations/computer-fundamentals?irclickid=xm-SEK05MxyNUfiwVmR-c3kUUkD3uORpD0v4WE0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2763163&utm_content=b2c
-3. Spezialisierung Introduction to Scripting in Python - https://www.coursera.org/specializations/introduction-scripting-in-python?irclickid=xm-SEK05MxyNUfiwVmR-c3kUUkD3uORtD0v4WE0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1310690&utm_content=b2c
